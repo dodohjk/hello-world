@@ -1,2 +1,2 @@
 # hello-world
-mt first git repo
+my first git repo
